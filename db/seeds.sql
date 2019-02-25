@@ -1,2 +1,12 @@
-INSERT INTO burgers (name, eaten) 
-VALUES ("Swartz Haven Burger", false),("Big Mac.", false),("Kitchen Sink", false);
+INSERT INTO burgers
+    (name)
+VALUES
+    ('Swushroom');
+INSERT INTO burgers
+    (name)
+VALUES
+    ('The Rex Montana');
+INSERT INTO burgers
+    (name)
+VALUES
+    ("Cheeseburger");
