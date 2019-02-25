@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewcswartz/burger.git"
+    "url": "git+https://github.com/andrewcswartz/Burger.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andrewcswartz/urger/issues"
+    "url": "https://github.com/andrewcswartz/Burger/issues"
   },
-  "homepage": "https://github.com/andrewcswartz/burger#readme",
+  "homepage": "https://github.com/andrewcswartz/Burger#readme",
   "dependencies": {
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
